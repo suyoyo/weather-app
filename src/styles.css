@@ -58,3 +58,8 @@ span#wind {
 span#description {
   font-size: 18px;
 }
+
+h6 {
+  position: relative;
+  left: 280px;
+}
