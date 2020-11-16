@@ -1,0 +1,60 @@
+i {
+  font-size: 60px;
+  color: #48a3b8;
+  padding: 5px;
+}
+h1 {
+  font-size: 90px;
+  margin: 0;
+  position: relative;
+  top: -5px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 16px;
+}
+.weatherapp {
+  border: 2px solid lightgray;
+  padding: 25px;
+  margin: 30px auto;
+  max-width: 600px;
+  border-radius: 5px;
+}
+span {
+  font-size: 22px;
+}
+
+span#temperature {
+  font-size: 45px;
+}
+
+a {
+  text-decoration: none;
+  color: #48a3b8;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(2, 2, 37);
+}
+.units {
+  position: relative;
+  top: -15px;
+}
+span#humidity {
+  font-size: 16px;
+}
+span#wind {
+  font-size: 16px;
+}
+span#description {
+  font-size: 18px;
+}
